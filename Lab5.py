@@ -1,7 +1,7 @@
 from random import randrange
 
-name = str("")
-guessCount = int(0)
+name = ""
+guessCount = 0
 
 # Get name
 while (True):
@@ -14,7 +14,7 @@ while (True):
 
 # Get other input
 num = int(randrange(100))
-print("I am thinking of a number between one and 100") # Testing pull requests
+print("I am thinking of a number between 1 and 100") # Testing pull requests
 
 while (True):
     try:
@@ -29,4 +29,4 @@ while (True):
         elif (guess < num):
             print("Higher")
     except:
-        print("Please enter an integer")
+        print("Please enter an integer!")
