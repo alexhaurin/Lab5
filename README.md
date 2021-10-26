@@ -8,3 +8,6 @@ Alex Haurin and Aidan Dougherty
 Our program is a simple number guessing game. You input numbers and the program will tell you *higher* or *lower* until you guess the randomly generated number.
 
 ![](https://lh3.googleusercontent.com/proxy/ft5PCsOcgSS_apBl-_WcQbz1S6Le5GoPDhTHpNrnKh7XbnGGh_e_z_1WxWO20qA0GJ6Lm6fMnKhCPj_BF9IONiG8ZFT1OqLp-_tMrw8pOTEd)
+
+# Our License
+We chose an MIT license simply because it is one of the most open liscense and lets people use this code with very little restrictions.
